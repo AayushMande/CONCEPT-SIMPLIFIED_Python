@@ -1,1 +1,1 @@
-# Python-tasks
+# CONCEPT SIMPLIFIED
